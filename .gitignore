@@ -1,0 +1,4 @@
+# ignore bazel generated symlinks
+bazel-*
+# ignore execution logs
+exec*.json
